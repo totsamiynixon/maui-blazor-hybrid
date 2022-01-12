@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "Hybrid.Maui.Win": {
+      "commandName": "MsixPackage"
+    }
+  }
+}
